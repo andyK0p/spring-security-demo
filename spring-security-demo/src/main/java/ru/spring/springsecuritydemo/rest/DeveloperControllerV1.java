@@ -1,4 +1,4 @@
-package ru.spring.springsecuritydemo.controller;
+package ru.spring.springsecuritydemo.rest;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
